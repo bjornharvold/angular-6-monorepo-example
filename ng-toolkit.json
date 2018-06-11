@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "skipInstall": true,
+    "project": "myApp",
+    "provider": "firebase",
+    "directory": "/",
+    "name": "myApp",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
